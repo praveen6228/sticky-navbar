@@ -1,0 +1,65 @@
+.navbar{
+   
+    background-color:black;
+    border-radius: 4px;
+    position: sticky;
+    top: 50px;px;
+    
+    
+    
+    
+
+}
+.navbar ul{
+    overflow: auto;
+   
+    
+    
+}
+.navbar li{
+    float: right;
+    list-style: none;
+    margin: 16px 24px;
+    
+    
+}
+.navbar ul li a{
+text-decoration: none;
+padding: 5px 5px;
+color: white;
+
+font-weight: bold;
+line-height: 50px;
+
+
+
+}
+.navbar li a:hover{
+color: red;
+}
+.section{
+    border-color: white;
+    display: flex;
+    justify-content:space-between;
+    padding: 40;
+    margin: 100px;
+    width: 100%;
+}
+.section image{
+    width: 80px;
+    height: 35px;
+
+}
+.section p{
+    margin-right: 0px;
+}
+.section h1{
+    margin: 0px;
+    color: black;
+}
+.section p button{
+    margin: 0px;
+    color: black;
+}
+
+
